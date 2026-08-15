@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\DotNet Projects\\SaludaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{344852CF-F6D8-42DB-A39F-ADF7EA07D4C3}|SaludaApp\\SaludaApp.csproj|z:\\dotnet projects\\saludaapp\\saludaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344852CF-F6D8-42DB-A39F-ADF7EA07D4C3}|SaludaApp\\SaludaApp.csproj|solutionrelative:saludaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\DotNet Projects\\SaludaApp\\SaludaApp\\Program.cs",
+              "RelativeDocumentMoniker": "SaludaApp\\Program.cs",
+              "ToolTip": "Z:\\DotNet Projects\\SaludaApp\\SaludaApp\\Program.cs",
+              "RelativeToolTip": "SaludaApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T07:00:52.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
